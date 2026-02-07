@@ -6,7 +6,7 @@ Unlock your AI potential with a 15-minute high-intensity prompt engineering work
 
 1. **Clone this repo:**
    ```bash
-   git clone https://github.com/[YOUR_USERNAME]/prograde-opportunity.git
+   git clone https://github.com/CodePatrolOPG/Prompt-Engineering.git
    ```
 
 2. **Open in Antigravity:**
